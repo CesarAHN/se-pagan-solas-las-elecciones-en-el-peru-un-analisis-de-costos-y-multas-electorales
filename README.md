@@ -31,3 +31,17 @@ omisión al voto (con excepción de los miembros de mesa). Por último, no
 incorporo información relacionada con las multas aplicables a los
 miembros de mesa, debido a la falta de disponibilidad de datos al
 respecto.
+
+## Tasa de inasistencia en las elecciones
+
+Para la primera vuelta de las elecciones a nivel nacional, observé que
+la tasa de inasistencia electoral alcanzó aproximadamente el 28%. Este
+nivel de ausentismo, lejos de mantenerse, se redujo en la segunda
+vuelta, donde registró un valor cercano al 23.8%. Este comportamiento
+sugiere una mayor participación ciudadana en la etapa decisiva del
+proceso electoral.
+
+<p align="center">
+
+<img src="plots\tab1.png" width="700px">
+</p>

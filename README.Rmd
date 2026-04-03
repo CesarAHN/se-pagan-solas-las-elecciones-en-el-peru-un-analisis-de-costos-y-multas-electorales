@@ -21,3 +21,15 @@ A partir de esta observación, me surgieron algunas preguntas que considero rele
 Estas inquietudes motivan el desarrollo del presente repositorio. En los apartados siguientes, me propongo analizar con mayor detalle la relación entre los costos del proceso electoral y la recaudación derivada de las multas por no votar. 
 
 Para tal fin, tomo como base las elecciones generales de 2021 y considero únicamente los resultados a nivel nacional. No incluyo los resultados correspondientes al ámbito internacional, dado que los electores en el extranjero no están sujetos al pago de multas por omisión al voto (con excepción de los miembros de mesa). Por último, no incorporo información relacionada con las multas aplicables a los miembros de mesa, debido a la falta de disponibilidad de datos al respecto.
+
+## Tasa de inasistencia en las elecciones
+
+Para la primera vuelta de las elecciones a nivel nacional, observé que la tasa de inasistencia electoral alcanzó aproximadamente el 28%. Este nivel de ausentismo, lejos de mantenerse, se redujo en la segunda vuelta, donde registró un valor cercano al 23.8%. Este comportamiento sugiere una mayor participación ciudadana en la etapa decisiva del proceso electoral.
+
+<p align="center"><img src="plots\tab1.png" width="700px"></p>
+
+
+
+
+
+
