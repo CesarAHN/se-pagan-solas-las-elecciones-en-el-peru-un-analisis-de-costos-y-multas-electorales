@@ -1,7 +1,7 @@
 
 # ¿Se pagan solas las elecciones en el Perú?: Un análisis de costos y multas electorales
 
-Al revisar el manual del elector para las elecciones presidenciales de
+Al revisar la cartilla del elector[^1] para las elecciones generales de
 2026, encontré un aspecto que llamó particularmente mi atención. En él
 se establece que las multas por no ejercer el voto se determinan como
 una proporción de la Unidad Impositiva Tributaria (UIT), específicamente
@@ -9,8 +9,8 @@ entre el 0.5% y el 2%, dependiendo del nivel de pobreza del distrito
 consignado en el DNI.
 
 Este detalle me llevó a reflexionar sobre una implicancia importante:
-dado que la UIT ha mostrado una tendencia creciente en el tiempo, las
-multas asociadas a la inasistencia electoral también tienden a
+dado que la UIT ha mostrado una tendencia creciente[^2] en el tiempo,
+las multas asociadas a la inasistencia electoral también tienden a
 incrementarse de manera automática. En otras palabras, no votar se
 vuelve progresivamente más costoso.
 
@@ -34,12 +34,11 @@ respecto.
 
 ## Tasa de inasistencia en las elecciones
 
-Para la primera vuelta de las elecciones a nivel nacional, observé que
-la tasa de inasistencia electoral alcanzó aproximadamente el 28%. Este
-nivel de ausentismo, lejos de mantenerse, se redujo en la segunda
-vuelta, donde registró un valor cercano al 23.8%. Este comportamiento
-sugiere una mayor participación ciudadana en la etapa decisiva del
-proceso electoral.
+Para la primera vuelta de las elecciones a nivel nacional, la tasa de
+inasistencia electoral alcanzó aproximadamente el 28%. Este nivel de
+ausentismo, se redujo en la segunda vuelta, donde registró un valor
+cercano al 23.9%. Este comportamiento sugiere una mayor participación
+ciudadana en la etapa decisiva del proceso electoral.
 
 <p align="center">
 
@@ -47,7 +46,7 @@ proceso electoral.
 </p>
 
 No obstante, este comportamiento no es el habitual. Según una nota de
-prensa del diario El Comercio, las elecciones de 2021 constituyen el
+prensa del diario El Comercio[^3], las elecciones de 2021 constituyen el
 primer proceso desde 2001 en el que la tasa de inasistencia disminuye en
 la segunda vuelta. Considero plausible que este resultado esté asociado,
 al menos en parte, a los efectos de la pandemia, que habrían influido
@@ -71,9 +70,9 @@ zona sur se observan los niveles más bajos de inasistencia.
 En la segunda vuelta, el patrón general se mantiene, aunque se aprecian
 algunas variaciones que resultan relevantes. En particular, los
 departamentos del centro del país muestran un incremento relativo en la
-inasistencia al sufragio respecto a la primera ronda. Este cambio podría
-reflejar dinámicas específicas del contexto electoral, como variaciones
-en el interés por las candidaturas en competencia o factores
+inasistencia al sufragio respecto a la primera vuelta. Este cambio
+podría reflejar dinámicas específicas del contexto electoral, como
+variaciones en el interés por las candidaturas en competencia o factores
 coyunturales que afectan la decisión de participación.
 
 <p align="center">
@@ -83,7 +82,7 @@ coyunturales que afectan la decisión de participación.
 
 En conjunto, estos resultados permiten evidenciar que la inasistencia no
 se distribuye de manera homogénea en el territorio, sino que responde a
-características regionales diferenciadas.
+características departamentales diferenciadas.
 
 ### Tasa de inasistencia por nivel de pobreza
 
@@ -116,26 +115,17 @@ largo de todo el proceso electoral.
 Las multas por inasistencia al sufragio no son homogéneas, sino que se
 diferencian según el nivel de pobreza del distrito consignado en el DNI
 del elector. Para las elecciones generales de 2021, la estructura de
-sanciones fue la siguiente: las personas clasificadas como pobres
-extremos debían pagar 22 soles, los pobres 44 soles y los no pobres 88
-soles.
-
-Esta diferenciación introduce un componente distributivo en el esquema
-de sanciones, en la medida en que ajusta el monto de la multa en función
-de las condiciones socioeconómicas del elector. Desde una perspectiva
-analítica, este aspecto resulta relevante, ya que la recaudación
-potencial no solo depende del nivel de inasistencia, sino también de la
-composición socioeconómica de los distritos donde esta se concentra.
-
-Es importante precisar que, en este análisis, no se consideran las
-multas asociadas a la inasistencia de los miembros de mesa, debido a la
-falta de información disponible sobre este componente.
+multas fue la siguiente: las personas clasificadas como pobres extremos
+debían pagar 22 soles, los pobres 44 soles y los no pobres 88 soles.
 
 Considerando conjuntamente la tasa de inasistencia y la estructura de
 multas diferenciada por nivel de pobreza, el monto potencial de
 recaudación en ambas rondas electorales asciende a S/ 1,031,148,734. De
 este total, S/ 557,379,196 corresponden a la primera vuelta, mientras
 que S/ 473,769,538 se asocian a la segunda vuelta.
+
+A continuación, se muestra los montos de las multas por departamentos y
+por cada una de las rondas de las elecciones generales 2021.
 
 <p align="center">
 
@@ -155,9 +145,7 @@ que S/ 473,769,538 se asocian a la segunda vuelta.
 Este cálculo representa un escenario teórico de recaudación, en el que
 se asume el cumplimiento pleno del pago de las multas. Por ello, resulta
 pertinente interpretarlo como una aproximación al monto máximo
-potencial, más que como una cifra efectivamente recaudada. A
-continuación, se muestra los montos de las multas por departamentos y
-por cada una de las rondas de las elecciones generales 2021.
+potencial, más que como una cifra efectivamente recaudada.
 
 ## Presupuesto de las elecciones generales 2021
 
@@ -166,7 +154,7 @@ generales de 2021 se solicitó un presupuesto total de S/ 804,010,922.
 Este monto se descompone de la siguiente manera: S/ 112,438,757
 destinados a las funciones propias del Jurado Nacional de Elecciones, S/
 406,568,510 asignados a la ONPE, y S/ 11,743,530 correspondientes a la
-RENIEC. Adicionalmente, se contemplaron demandas complementarias por un
+RENIEC. Adicionalmente, se contemplaron demandas adicionales por un
 total de S/ 273,260,125.
 
 <p align="center">
@@ -189,29 +177,30 @@ costó la organización del proceso electoral.
 
 ## Consideraciones importantes
 
-Los beneficios potenciales asociados a la realización de las elecciones
-podrían incrementarse al considerar las multas aplicables a los miembros
-de mesa que no cumplieron con su función. De acuerdo con la Ley N.º
-28859, dichas sanciones ascienden al 5% de una UIT, lo que introduce una
-fuente adicional de recaudación que no ha sido incorporada en las
-estimaciones previas.
+- Los beneficios potenciales asociados a la realización de las
+  elecciones podrían incrementarse al considerar las multas aplicables a
+  los miembros de mesa que no cumplieron con su función. De acuerdo con
+  la Ley N.º 28859, dichas sanciones ascienden al 5% de una UIT, lo que
+  introduce una fuente adicional de recaudación que no ha sido
+  incorporada en las estimaciones previas.
 
-Por otro lado, el pago que reciben los miembros de mesa por su
-participación durante la jornada electoral presumiblemente se encuentra
-incluido dentro del presupuesto asignado a la ONPE, aunque no dispongo
-de confirmación explícita sobre este punto. En caso de no estar
-completamente internalizado en dicho presupuesto, es razonable suponer
-que estos costos podrían verse, al menos parcialmente, compensados por
-las multas impuestas a aquellos miembros de mesa que no asistieron.
+- Por otro lado, el pago que reciben los miembros de mesa por su
+  participación durante la jornada electoral presumiblemente se
+  encuentra incluido dentro del presupuesto asignado a la ONPE, aunque
+  no dispongo de confirmación explícita sobre este punto. En caso de no
+  estar completamente internalizado en dicho presupuesto, es razonable
+  suponer que estos costos podrían verse, al menos parcialmente,
+  compensados por las multas impuestas a aquellos miembros de mesa que
+  no asistieron.
 
 ## ¿Qué podría pasar en las elecciones 2026?
 
 Para las elecciones de 2026, las multas han aumentado en términos
 nominales como consecuencia del incremento de la UIT. En este nuevo
-escenario, la escala de sanciones se establece en S/ 110 para los no
+escenario, la escala de multas[^4] se establece en S/ 110 para los no
 pobres, S/ 55 para los pobres y S/ 27.5 para los pobres extremos.
-Asimismo, el padrón electoral se ha incrementado en aproximadamente 1.8
-millones de electores respecto al proceso de 2021.
+Asimismo, el padrón electoral[^5] se ha incrementado en aproximadamente
+1.8 millones de electores respecto al proceso de 2021.
 
 Bajo estas condiciones, mayor número de electores y mayores montos de
 multa, y suponiendo que la tasa de inasistencia se mantenga en niveles
@@ -220,13 +209,23 @@ recaudación podría superar los S/ 1,385,714,369 que es un monto superior
 a lo presupuestado para los comicios de 2026, que según el JNE es de S/
 820,738,683.
 
-A continuación, se muestra una simulación de los posibles ingresos por
-multas dada distintas tasas de ausentismo en las elecciones generales.
+A continuación, se muestra una simulación[^6] de los posibles ingresos
+por multas dada distintas tasas de ausentismo en las elecciones
+generales.
 
 <p align="center">
 
 <img src="plots\img6.png" width="700px">
 </p>
+
+Dado el presupuesto vigente asignado para las Elecciones Generales de
+2026, dicho monto podría ser cubierto si la tasa de ausentismo electoral
+se ubica aproximadamente entre 15% y 16%. En este sentido, tasas de
+ausentismo superiores a dicho umbral implicarían que el proceso
+electoral genere un saldo neto favorable para el Estado. A modo
+ilustrativo, si el nivel de ausentismo fuera similar al observado en
+2021 (25,9%), el Estado obtendría un beneficio superior a los 500
+millones de soles.
 
 ## Fuentes de información
 
@@ -251,3 +250,35 @@ Multas por no ir a sufragar en el año 2021:
 Presupuesto para las elecciones generales del 2021:
 
 <https://portal.jne.gob.pe/Portal/Pagina/Nota/8409/>
+
+## Comentarios y sugerencias
+
+Si tiene alguna sugerencia, recomendación o comentario puede enviarme un
+correo a: <pe.cesar.huamani.n@uni.pe>
+
+[^1]: La cartilla del elector lo pueden encontrar en:
+    <https://www.onpe.gob.pe/modElecciones/elecciones/EG2026/Mat-Capacitacion/Cartilla-del-elector_EG2026.pdf>
+
+[^2]: En la página web de la SUNAT se puede encontrar la evolución de la
+    UIT: <https://www.sunat.gob.pe/indicestasas/uit.html>
+
+[^3]: La nota de prensa del diario El Comercio:
+    <https://elcomercio.pe/politica/elecciones/elecciones-2021-como-vario-el-ausentismo-para-la-segunda-vuelta-elecciones-2021-elecciones-segunda-vuelta-onpe-resultados-pedro-castillo-peru-libre-fuerza-popular-keiko-fujimori-ec-data-noticia>
+
+[^4]: La escala de multas se puede obtener de la cartilla del elector:
+    <https://www.onpe.gob.pe/modElecciones/elecciones/EG2026/Mat-Capacitacion/Cartilla-del-elector_EG2026.pdf>
+
+[^5]: El JNE informa en la siguiente nota de prensa del padrón electoral
+    de 2026: <https://portal.jne.gob.pe/portal/Pagina/Nota/19498>
+
+[^6]: Para la estimación, se ha asumido una estructura equivalente entre
+    la condición de pobreza y el ausentismo asociado a dicha condición
+    en las Elecciones Generales de 2021. En consecuencia, dichas tasas
+    de ausentismo se consideran proporcionales a la tasa de ausentismo
+    general. El detalle metodológico del cálculo se encuentra disponible
+    en el archivo con extensión .R. Si bien un análisis más exhaustivo y
+    preciso podría construirse a partir de la incorporación de
+    estructuras correspondientes a múltiples procesos electorales
+    previos, con el fin de estimar promedios más robustos, ello
+    implicaría un esfuerzo considerable en relación con el alcance de
+    las inquietudes que motivaron la creación del repositorio.
