@@ -26,7 +26,7 @@ Para tal fin, tomo como base las elecciones generales de 2021 y considero única
 
 Para la primera vuelta de las elecciones a nivel nacional, observé que la tasa de inasistencia electoral alcanzó aproximadamente el 28%. Este nivel de ausentismo, lejos de mantenerse, se redujo en la segunda vuelta, donde registró un valor cercano al 23.8%. Este comportamiento sugiere una mayor participación ciudadana en la etapa decisiva del proceso electoral.
 
-<p align="center"><img src="plots\tab1.png" width="700px"></p>
+<p align="center"><img src="plots\tab1.png" width="500px"></p>
 
 
 

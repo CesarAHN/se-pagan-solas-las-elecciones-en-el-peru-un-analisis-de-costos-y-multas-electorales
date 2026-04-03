@@ -43,5 +43,5 @@ proceso electoral.
 
 <p align="center">
 
-<img src="plots\tab1.png" width="700px">
+<img src="plots\tab1.png" width="500px">
 </p>
