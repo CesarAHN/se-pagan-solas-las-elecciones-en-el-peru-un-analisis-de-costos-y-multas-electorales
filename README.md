@@ -45,3 +45,33 @@ proceso electoral.
 
 <img src="plots\tab1.png" width="500px">
 </p>
+
+No obstante, este comportamiento no es el habitual. Según una nota de
+prensa del diario El Comercio, las elecciones de 2021 constituyen el
+primer proceso desde 2001 en el que la tasa de inasistencia disminuye en
+la segunda vuelta. Considero plausible que este resultado esté asociado,
+al menos en parte, a los efectos de la pandemia, que habrían influido
+tanto en los niveles de participación inicial como en la dinámica de
+movilización del electorado entre ambas rondas.
+
+### Tasa de inasistencia por departamentos.
+
+Para la primera vuelta, el mayor ausentismo se concentra en
+departamentos del norte del país, muchos de los cuales pertenecen a la
+selva peruana, lo que podría estar asociado a factores estructurales
+como la dispersión geográfica, limitaciones en infraestructura o
+dificultades de acceso a los locales de votación. En contraste, en la
+zona sur se observan los niveles más bajos de inasistencia.
+
+<p align="center">
+
+<img src="plots\img1.png" width="700px">
+</p>
+
+En la segunda vuelta, el patrón general se mantiene, aunque se aprecian
+algunas variaciones que resultan relevantes. En particular, los
+departamentos del centro del país muestran un incremento relativo en la
+inasistencia al sufragio respecto a la primera ronda. Este cambio podría
+reflejar dinámicas específicas del contexto electoral, como variaciones
+en el interés por las candidaturas en competencia o factores
+coyunturales que afectan la decisión de participación.
