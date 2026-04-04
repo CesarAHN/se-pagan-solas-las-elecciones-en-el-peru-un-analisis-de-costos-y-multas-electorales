@@ -28,7 +28,7 @@ oracion<-function(x){
 
 
 # Los distritos pobres. 
-dp<-read.xlsx("C:/Users/cesar/Downloads/pobreza_distritos.xlsx")
+dp<-read.xlsx("Datos/pobreza_distritos.xlsx")
 
 dp %>% select(UBIGEO,DEPARTAMENTO,PROVINCIA,DISTRITO,CLASIFICACIÓN) %>% as_tibble()->dp
 
@@ -61,7 +61,7 @@ dp %>% mutate(multa=case_when(CLASIFICACIÓN=="NO POBRE"~88,
 
 
 # Los resultados de la primera vuelta.
-pv<-read_csv2("C:/Users/cesar/Downloads/Resultdos_elecciones_presidenciales_1er_vuelta.csv",
+pv<-read_csv2("Datos/Resultdos_elecciones_presidenciales_1er_vuelta.csv",
               locale = locale(encoding = "ISO-8859-1"))
 
 # guess_encoding("C:/Users/cesar/Downloads/Resultdos_elecciones_presidenciales_1er_vuelta.csv")
@@ -80,7 +80,7 @@ pv %>% filter(is.na(votaron))
 #-------
 # Los resultados de la segunda vuelta.
 
-sv<-read_csv2("C:/Users/cesar/Downloads/Resultados_2da_vuelta_Version_PCM .csv",
+sv<-read_csv2("Datos/Resultados_2da_vuelta_Version_PCM .csv",
               locale = locale(encoding = "ISO-8859-1"))
 
 sv %>% filter(DESCRIP_ESTADO_ACTA!="SIN INSTALAR")->sv
